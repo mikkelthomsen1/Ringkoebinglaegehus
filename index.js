@@ -1,3 +1,5 @@
+//fra https://www.youtube.com/watch?v=gXLjWRteuWI
+
 const menu = document.querySelector(".menu");
 const close = document.querySelector(".close");
 const nav = document.querySelector("nav");
